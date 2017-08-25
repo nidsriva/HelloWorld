@@ -1,0 +1,11 @@
+ Volume in drive C is os
+ Volume Serial Number is C0B1-1385
+
+ Directory of C:\Users\nidsriva\Desktop\HelloWorld
+
+08/25/2017  05:19 PM    <DIR>          .
+08/25/2017  05:19 PM    <DIR>          ..
+08/25/2017  05:19 PM                 0 hello.txt
+08/25/2017  04:52 PM                63 HelloWorld.py
+               2 File(s)             63 bytes
+               2 Dir(s)  19,061,428,224 bytes free
